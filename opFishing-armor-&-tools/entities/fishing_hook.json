@@ -1,0 +1,12 @@
+{
+  "minecraft:fishing_hook": {
+    "minecraft:behavior.fishing": {
+      "wait_time_range": [
+        1,
+        2
+      ],
+      "min_wait_time": 1,
+      "max_wait_time": 2
+    }
+  }
+}

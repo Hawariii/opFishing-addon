@@ -1,0 +1,187 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "weight": 3,
+          "name": "minecraft:netherite_helmet",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "protections", "level": 4},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1},
+                {"id": "respiration", "level": 3},
+                {"id": "aqua_affinity", "level": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_chestplate",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "protections", "level": 4},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_leggings",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "protections", "level": 4},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_boots",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "protections", "level": 4},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1},
+                {"id": "feather_falling", "level": 4}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_sword",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "sharpness", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1},
+                {"id": "looting", "level": 3},
+                {"id": "fire_aspect", "level": 2}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_pickaxe",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "efficiency", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1},
+                {"id": "fortune", "level": 3}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_pickaxe",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "efficiency", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1},
+                {"id": "silk_touch", "level": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_axe",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "efficiency", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1}
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_shovel",
+          "functions": [
+            {
+              "function": "set_damage", 
+              "damage": 0
+            },
+            {
+              "function": "specific_enchantments",
+              "enchants": [
+                {"id": "efficiency", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
