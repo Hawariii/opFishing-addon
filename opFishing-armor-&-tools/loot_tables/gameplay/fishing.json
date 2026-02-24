@@ -148,6 +148,52 @@
           ]
         },
         {
+          "type": "item",
+          "weight": 2,
+          "name": "minecraft:mace",
+          "functions": [
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                { "id": "density", "level": 5 },
+                { "id": "breach", "level": 4 },
+                { "id": "unbreaking", "level": 3 },
+                { "id": "mending", "level": 1 }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:netherite_spear",
+          "functions": [
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                { "id": "lunge", "level": 3 },
+                { "id": "unbreaking", "level": 3 }
+              ]
+            }
+          ]
+        },
+                {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:bow",
+          "functions": [
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {"id": "power", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "infinity", "level": 1},
+                {"id": "flame", "level": 1}
+              ]
+            }
+          ]
+        },
+        {
           "type":" item",
           "weight": 1,
           "name": "minecraft:elytra",
@@ -160,28 +206,6 @@
               ]
              }
           ]
-        },
-        {
-          "type":" item",
-          "weight": 1,
-          "name": "minecraft:mace",
-          "functions": [
-            {
-              "function": "specific_enchants",
-              "enchants": [
-                {"id": "sharpness", "level": 5},
-                {"id": "unbreaking", "level": 3},
-                {"id": "mending", "level": 1},
-                {"id": "looting", "level": 3},
-                {"id": "fire_aspect", "level": 2}
-             ]
-            }  
-          ]
-        },
-        {
-          "type": "item",
-          "weight": 1,
-          "name": "minecraft:totem_of_undying"
         }
       ]
     }
