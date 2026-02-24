@@ -1,29 +1,21 @@
 {
   "format_version": 2,
   "header": {
-    "name": "opFishing armor and tools",
+    "name": "opFishing armors & tools only",
     "description": "Meningkatkan peluang loot item-item langka saat mancing. Bikin kail lo berasa cheat - by aizhumc",
-    "uuid": "fb7496d3-ec04-493b-a1bc-f9309358edec",
-    "meta": {
-      "authors": ["Aizhu"],
-      "license": "CC BY-NC-SA 4.0"
-    },
-    "version": [
-      1,
-      0,
-      4
-    ],
-    "min_engine_version": [1, 26, 1, 1]
+    "uuid": "9bd1ff5f-da95-49b0-b847-a986a6613b9f",
+    "version": [1, 0, 4],
+    "min_engine_version": [1, 26, 1]
   },
   "modules": [
     {
       "type": "data",
-      "uuid": "a689dd19-1feb-48e5-b91a-720e0568991c",
-      "version": [
-        1,
-        0,
-        0
-      ]
+      "uuid": "61351f77-9c6d-48e1-a36a-baeb5e0441a3",
+      "version": [1, 0, 0]
     }
-  ]
+  ],
+  "metadata": {
+    "authors": ["Aizhu"],
+    "license": "CC BY-NC-SA 4.0"
+  }
 }

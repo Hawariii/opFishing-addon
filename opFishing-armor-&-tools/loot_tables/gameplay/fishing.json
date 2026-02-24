@@ -5,17 +5,13 @@
       "entries": [
         {
           "type": "item",
-          "weight": 3,
+          "weight": 1,
           "name": "minecraft:netherite_helmet",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
-                {"id": "protections", "level": 4},
+                {"id": "protection", "level": 4},
                 {"id": "unbreaking", "level": 3},
                 {"id": "mending", "level": 1},
                 {"id": "respiration", "level": 3},
@@ -30,13 +26,9 @@
           "name": "minecraft:netherite_chestplate",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
-                {"id": "protections", "level": 4},
+                {"id": "protection", "level": 4},
                 {"id": "unbreaking", "level": 3},
                 {"id": "mending", "level": 1}
               ]
@@ -49,13 +41,9 @@
           "name": "minecraft:netherite_leggings",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
-                {"id": "protections", "level": 4},
+                {"id": "protection", "level": 4},
                 {"id": "unbreaking", "level": 3},
                 {"id": "mending", "level": 1}
               ]
@@ -68,13 +56,9 @@
           "name": "minecraft:netherite_boots",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
-                {"id": "protections", "level": 4},
+                {"id": "protection", "level": 4},
                 {"id": "unbreaking", "level": 3},
                 {"id": "mending", "level": 1},
                 {"id": "feather_falling", "level": 4}
@@ -88,11 +72,9 @@
           "name": "minecraft:netherite_sword",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
             },
             {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
                 {"id": "sharpness", "level": 5},
                 {"id": "unbreaking", "level": 3},
@@ -109,11 +91,7 @@
           "name": "minecraft:netherite_pickaxe",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
                 {"id": "efficiency", "level": 5},
                 {"id": "unbreaking", "level": 3},
@@ -129,11 +107,7 @@
           "name": "minecraft:netherite_pickaxe",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
                 {"id": "efficiency", "level": 5},
                 {"id": "unbreaking", "level": 3},
@@ -149,11 +123,7 @@
           "name": "minecraft:netherite_axe",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
                 {"id": "efficiency", "level": 5},
                 {"id": "unbreaking", "level": 3},
@@ -168,11 +138,7 @@
           "name": "minecraft:netherite_shovel",
           "functions": [
             {
-              "function": "set_damage", 
-              "damage": 0
-            },
-            {
-              "function": "specific_enchantments",
+              "function": "specific_enchants",
               "enchants": [
                 {"id": "efficiency", "level": 5},
                 {"id": "unbreaking", "level": 3},
