@@ -146,6 +146,42 @@
               ]
             }
           ]
+        },
+        {
+          "type":" item",
+          "weight": 1,
+          "name": "minecraft:elytra",
+          "functions": [
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1}
+              ]
+             }
+          ]
+        },
+        {
+          "type":" item",
+          "weight": 1,
+          "name": "minecraft:mace",
+          "functions": [
+            {
+              "function": "specific_enchants",
+              "enchants": [
+                {"id": "sharpness", "level": 5},
+                {"id": "unbreaking", "level": 3},
+                {"id": "mending", "level": 1},
+                {"id": "looting", "level": 3},
+                {"id": "fire_aspect", "level": 2}
+             ]
+            }  
+          ]
+        },
+        {
+          "type": "item",
+          "weight": 1,
+          "name": "minecraft:totem_of_undying"
         }
       ]
     }

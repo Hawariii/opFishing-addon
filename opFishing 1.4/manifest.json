@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "opFishing 1.4",
+    "description": "Meningkatkan peluang loot item-item langka saat mancing. Bikin kail lo berasa cheat - by aizhumc",
+    "uuid": "7dba2d5b-4a91-422d-9081-d3582e4ebc0d",
+    "version": [
+      1,
+      0,
+      4
+    ],
+    "min_engine_version": [1, 21, 131, 1]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "a143cebe-1a4c-4b2a-84a1-a8704c651424",
+      "version": [
+        1,
+        0,
+        3
+      ]
+    }
+  ],
+  "metadata":{
+    "authors": ["Aizhu"],
+    "license": "CC BY-NC-SA 4.0"
+  }
+}
