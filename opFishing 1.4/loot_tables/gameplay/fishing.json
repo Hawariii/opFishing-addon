@@ -242,7 +242,7 @@
         },
         {
           "type": "item",
-          "name": "minecraft:rocket",
+          "name": "minecraft:firework_rocket",
           "weight":10,
           "functions": [
             {
@@ -253,7 +253,7 @@
         },
         {
           "type": "item",
-          "name": "minecraft:experienc e_bottle",
+          "name": "minecraft:experience_bottle",
           "weight": 10,
           "functions": [
             {
