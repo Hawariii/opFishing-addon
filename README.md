@@ -84,15 +84,6 @@ Each item drops fully enchanted.
 
 ***
 
-## **changes log 1.6**
-
-*   buffed Iron,Gold,Diamond drop 1-10 > 5-10 item
-*   adds Experience Bottles,Firework
-*   adds all netherite armor with over power enchantments
-*   added all netherite tools & weapons with over power enchantments
-
-***
-
 ## Support
 
 **YouTube:** [@siaizhu](https://m.youtube.com/@siaizhu)
